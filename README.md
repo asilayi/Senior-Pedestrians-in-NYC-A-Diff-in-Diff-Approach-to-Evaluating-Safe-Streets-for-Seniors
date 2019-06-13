@@ -41,8 +41,6 @@ Compare trends in senior pedestrian accident rates in SPFAs over time with trend
 
 ### Initial Result
 
-![](https://github.com/jzhou60/website_tester/blob/master/Picture2.png)
-![](https://github.com/jzhou60/website_tester/blob/master/Picture3.png)
-![](https://github.com/asilayi/cusp__spfa/blob/master/senior%20pedestrian.gif)
-![](https://github.com/asilayi/cusp__spfa/blob/master/pedestrian%20accident.gif)
+![alt text](https://raw.githubusercontent.com/jzhou60/website_tester/master/Picture2.png)
+![alt text](https://raw.githubusercontent.com/jzhou60/website_tester/master/Picture3.png)
 
