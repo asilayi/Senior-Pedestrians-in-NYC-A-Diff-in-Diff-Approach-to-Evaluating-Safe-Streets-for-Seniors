@@ -38,6 +38,7 @@
 Compare trends in senior pedestrian accident rates in SPFAs over time with trends in parts of the city outside SPFAs:
  - If our analysis shows a significant change in trends in SPFAs post-treatment (after SPFA implementation), then our analysis will suggest that SPFAs have had a causal effect on improved safety for senior pedestrians. 
  - If, on the other hand, pedestrian accident rates see similar trends in SPFAs and in non-treated parts of the city, then the City may need to readjust its methodology for selecting SPFAs or infrastructure improvement projects.
+
 ### Initial Result
 
 ![](https://github.com/jzhou60/website_tester/blob/master/Picture2.png)
