@@ -44,4 +44,6 @@ Compare trends in senior pedestrian accident rates in SPFAs over time with trend
 ![alt text](https://raw.githubusercontent.com/jzhou60/website_tester/master/Picture2.png)
 ![alt text](https://raw.githubusercontent.com/jzhou60/website_tester/master/Picture3.png)
 ![alt text](https://raw.githubusercontent.com/asilayi/Senior-Pedestrians-in-NYC-A-Diff-in-Diff-Approach-to-Evaluating-Safe-Streets-for-Seniors/master/pedestrian%20accident.gif)
+![alt text](https://raw.githubusercontent.com/asilayi/Senior-Pedestrians-in-NYC-A-Diff-in-Diff-Approach-to-Evaluating-Safe-Streets-for-Seniors/master/senior%20pedestrian.gif)
+
 
