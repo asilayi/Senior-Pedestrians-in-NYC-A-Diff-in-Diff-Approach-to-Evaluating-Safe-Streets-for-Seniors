@@ -47,7 +47,7 @@ Accidents Decline After Program Implementation          |    Most Senior Involve
 ![](https://raw.githubusercontent.com/jzhou60/website_tester/master/Picture2.png)  |  ![](https://raw.githubusercontent.com/jzhou60/website_tester/master/Picture3.png)
 
 
-![](https://raw.githubusercontent.com/asilayi/Senior-Pedestrians-in-NYC-A-Diff-in-Diff-Approach-to-Evaluating-Safe-Streets-for-Seniors/master/pedestrian%20accident.gif) 
+![](https://raw.githubusercontent.com/jzhou60/website_tester/master/pedestrian%20accident%20copy.gif) 
 
-![](https://raw.githubusercontent.com/asilayi/Senior-Pedestrians-in-NYC-A-Diff-in-Diff-Approach-to-Evaluating-Safe-Streets-for-Seniors/master/senior%20pedestrian.gif)
+![](https://raw.githubusercontent.com/jzhou60/website_tester/master/senior%20pedestrian%20copy.gif)
 
