@@ -41,9 +41,13 @@ Compare trends in senior pedestrian accident rates in SPFAs over time with trend
 
 ### Initial Result
 
-![alt text](https://raw.githubusercontent.com/jzhou60/website_tester/master/Picture2.png)
-![alt text](https://raw.githubusercontent.com/jzhou60/website_tester/master/Picture3.png)
-![alt text](https://raw.githubusercontent.com/asilayi/Senior-Pedestrians-in-NYC-A-Diff-in-Diff-Approach-to-Evaluating-Safe-Streets-for-Seniors/master/pedestrian%20accident.gif)
-![alt text](https://raw.githubusercontent.com/asilayi/Senior-Pedestrians-in-NYC-A-Diff-in-Diff-Approach-to-Evaluating-Safe-Streets-for-Seniors/master/senior%20pedestrian.gif)
+
+Accidents Decline After Program Implementation          |    Most Senior Involved Accidents Occur Outside SPFAs
+:-------------------------:|:-------------------------:
+![](https://raw.githubusercontent.com/jzhou60/website_tester/master/Picture2.png)  |  ![](https://raw.githubusercontent.com/jzhou60/website_tester/master/Picture3.png)
+
+NYC Pedestrian Accidents with SPFAs From 2001 to 2017 | Most Senior Involved Accidents Occur Outside SPFAs From 2001 to 2017
+:-------------------------:|:-------------------------:
+![](https://raw.githubusercontent.com/asilayi/Senior-Pedestrians-in-NYC-A-Diff-in-Diff-Approach-to-Evaluating-Safe-Streets-for-Seniors/master/pedestrian%20accident.gif) | ![](https://raw.githubusercontent.com/asilayi/Senior-Pedestrians-in-NYC-A-Diff-in-Diff-Approach-to-Evaluating-Safe-Streets-for-Seniors/master/senior%20pedestrian.gif)
 
 
